@@ -17,4 +17,4 @@ Criar o esquema conceitual para o contexto de oficina com base na narrativa forn
 Os mecânicos possuem código, nome, endereço e especialidade
 * Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-[Link do diagrama refinado](https://github.com/casjunior93/DIO---Refinando-um-Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE/raw/main/E-commerce/diagrama-e-commerce-aula-refinado.png) {:target=”_blank “}
+[Link do diagrama refinado](https://github.com/casjunior93/DIO---Refinando-um-Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE/raw/main/E-commerce/diagrama-e-commerce-aula-refinado.png) {:target="_blank"}
