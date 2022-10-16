@@ -15,5 +15,5 @@ Criar o esquema conceitual para o contexto de oficina com base na narrativa forn
 * O valor de cada peça também irá compor a OS
 * O cliente autoriza a execução dos serviços
 * A mesma equipe avalia e executa os serviços
-*Os mecânicos possuem código, nome, endereço e especialidade
+* Os mecânicos possuem código, nome, endereço e especialidade
 * Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
