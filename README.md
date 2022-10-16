@@ -17,3 +17,5 @@ Criar o esquema conceitual para o contexto de oficina com base na narrativa forn
 * A mesma equipe avalia e executa os serviços
 * Os mecânicos possuem código, nome, endereço e especialidade
 * Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+[Link do diagrama idealizado](https://github.com/casjunior93/DIO-Construindo-um-Esquema-Conceitual-para-Banco-De-dados/raw/main/diagrama-oficina.png)
